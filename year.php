@@ -9,7 +9,7 @@
 <?php 
 $a=2000;
 
-$year=($a%4==0?"leap year":"non leap year");
+$year=($a%4==0?"leap year":"non leap year"); //for finding year is leap year or not...
 echo"year is=".$year;
 
 
